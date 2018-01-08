@@ -52,4 +52,4 @@ See [License](https://github.com/GarrettBeatty/American-Sign-Language-Real-Time-
 
 More Info
 ---------
-[https://en.wikipedia.org/wiki/American_Sign_Language](https://en.wikipedia.org/wiki/American_Sign_Language)# American-Sign-Language-Real-Time-Translation
+[American Sign Language Wikipedia](https://en.wikipedia.org/wiki/American_Sign_Language)
